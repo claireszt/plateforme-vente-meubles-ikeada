@@ -30,11 +30,11 @@ The main objective is to create a web platform where users can browse, buy, and 
 ## Constraints and Concepts Covered
 The project must be completed within two weeks, using Bootstrap for styling. Covered concepts include web deployment, databases, front-end/back-end interactions, use of a framework for the back-end, and password security.
 
-## Mockup 
+## Screenshots 
 <details>
   <summary>Click to expand!</summary>
-![Texte alternatif](https://github.com/adatechschool/projet-collectif-plateforme-de-vente-de-meubles-ikeada/blob/master/images/ikeada_homepage.png)
-![Texte alternatif](https://github.com/adatechschool/projet-collectif-plateforme-de-vente-de-meubles-ikeada/blob/master/images/ikeada_homepage2.png)
+  <img width="1426" alt="ikeada_homepage" src="https://github.com/claireszt/plateforme-vente-meubles-ikeada/assets/135039330/ea51d055-ae8d-4420-88da-a0c53bc3db70">
+  <img width="1420" alt="ikeada_homepage2" src="https://github.com/claireszt/plateforme-vente-meubles-ikeada/assets/135039330/83dde537-34a1-47c3-9d36-0dbf520f4b10">
 </details>
 
 ## Team Organization
